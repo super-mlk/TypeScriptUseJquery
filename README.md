@@ -37,5 +37,6 @@
       console.log($('#h1').text());
       ```
 
-      ![](C:\Users\admin\Desktop\project\Typescript使用Jquery\TypeScriptUseJquery\console.jpg)
+      
 
+![](<https://raw.githubusercontent.com/super-mlk/TypeScriptUseJquery/master/console.jpg>)
